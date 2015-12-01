@@ -1,0 +1,23 @@
+Katie-Moellers-MacBook-Pro:Desktop katiemoeller$ cd council/
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_aug17.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_sept8.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_sept21.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_oct5.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_oct19.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ pdftotext cm15_nov2.pdf
+Katie-Moellers-MacBook-Pro:council katiemoeller$ cat cm15_aug17.txt cm15_sept8.txt cm15_sept21.txt cm15_oct5.txt cm15_oct19.txt cm15_nov2.txt > all_text.txt
+
+
+In the last six months, the Columbia City Council most importantly has heard recommendations from the Mayor’s Task Force on Community Violence. 
+
+This committee was put together to hear and condense information from the public in order to better understand any negative things (crime, racial tensions, unemployment) that are going on around Columbia. 
+The committee has heard from much of the community, and put together a number of recommendations. 
+
+The Council has heard from a number of citizens who are concerned with the Council’s lack of action in addressing racism, and in particular with the council’s failure to act on any of the Mayor’s Task Force Against Community Violence’s suggestions. 
+One speaker even pointed out that the last time a committee on race had been put together (1996), not one of the 28 recommendations proposed by the committee had been enacted by the council.  
+
+One recommendation discussed by a number of people was “community policing” – which is seemingly the idea of proactive, instead of response driven, policing. Not everyone can agree on what that is. 
+
+Basically… Lots of talk and little action. 
+
+I searched race, racism, racial, black, unequal, inequality, equal, divide, privilege, unfair.
